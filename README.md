@@ -27,11 +27,12 @@ Abra index.html no seu navegador.
 
 Preencha o formulário e veja a validação, máscaras e feedback em ação.
 
-Plugins utilizados
-jQuery — para manipulação de DOM e eventos.
+## Plugins utilizados
 
-jQuery Validation — validação de formulários.
+- jQuery — para manipulação de DOM e eventos.
 
-jQuery Mask Plugin — máscaras em inputs (CPF, telefone, CEP, cartão).
+- jQuery Validation — validação de formulários.
 
-🔗 Link do projeto: https://jquery-site-vendas.vercel.app/
+- jQuery Mask Plugin — máscaras em inputs (CPF, telefone, CEP, cartão).
+
+🔗 *Link do projeto: https://jquery-site-vendas.vercel.app/*
