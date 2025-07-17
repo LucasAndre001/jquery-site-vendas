@@ -35,4 +35,4 @@ Preencha o formulário e veja a validação, máscaras e feedback em ação.
 
 - jQuery Mask Plugin — máscaras em inputs (CPF, telefone, CEP, cartão).
 
-🔗 *Link do projeto: https://jquery-site-vendas.vercel.app/*
+## 🔗 Link do projeto: https://jquery-site-vendas.vercel.app/
